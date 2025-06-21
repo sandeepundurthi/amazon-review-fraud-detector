@@ -34,5 +34,4 @@ Check `data/suspicious_reviews.csv` for reviews flagged as fake.
 ## 📚 Dataset
 [Kaggle: Amazon and Best Buy Electronics Reviews (~7,000)](https://www.kaggle.com/datasets/)
 
-## ✨ Author
-Made by [Your Name] — Portfolio-ready ML Project.
+
