@@ -26,7 +26,7 @@ streamlit run app/amazon_review_fraud_app.py
 ```
 
 ## 📊 Sample Dashboard
-![Dashboard](images/streamlit_dashboard_sample.png)
+![Dashboard](images/t1.png)
 
 ## 📉 Suspicious Reviews CSV
 Check `data/suspicious_reviews.csv` for reviews flagged as fake.
